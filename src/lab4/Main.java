@@ -1,4 +1,4 @@
-package lab5;
+package lab4;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -8,7 +8,7 @@ import java.util.stream.LongStream;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("--- Лабораторна робота №5: Лямбда вирази ---");
+        System.out.println("--- Лабораторна робота №4: Лямбда вирази ---");
 
         // 1. Відфільтрувати непарні числа [cite: 27]
         List<Integer> numbers1 = Arrays.asList(1, 2, 3, 4, 5, 6, 7);
